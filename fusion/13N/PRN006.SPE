@@ -1,0 +1,12 @@
+
+Detector #1      ACQ 26-Jan-2023 at 13:52:28   RT = 30.0   LT = 30.0
+            DESKTOP-T9B70KN Easy-MCA-8k SN 15013759
+            Beryllilum 1 Calibration
+
+ROI # 1     RANGE: 10 = 10.00     to  10 = 10.00
+Couldn't get background subtracted ROI.
+
+ROI # 2     RANGE: 230 = 230.00     to  259 = 259.00
+            AREA : Gross =  2792    Net = 952   +/- 91
+            CENTROID: 245.06
+            SHAPE: FWHM = 15.52     FW(1/5)M = 20.60
